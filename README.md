@@ -53,7 +53,7 @@ I'm a passionate JavaScript developer with real-world experience in building mod
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/mostafa-ramadan-948b97263])
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mostafa-ramadan-948b97263)
 
 - 📩 Email: mostafamostafaramadan144@gmail.com
 - 📂 [My CV (PDF)](https://drive.google.com/file/d/1hewsZl-XY7dGi7ZOHMRBNVbqAtzqJhLD/view?usp=sharing)
