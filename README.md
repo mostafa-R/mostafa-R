@@ -280,7 +280,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical articles about JavaScript, React, and modern web development
+
 <!-- BLOG-POST-LIST:END -->
