@@ -29,19 +29,19 @@ I'm a passionate JavaScript developer with real-world experience in building mod
 
 ### 🧠 What I Do
 
-- ✨ Build responsive UIs with React and Tailwind CSS  
-- 🌍 Develop SEO-friendly apps using Next.js  
-- 🔐 Implement secure authentication with JWT & OAuth  
-- ⚙️ Design scalable REST & GraphQL APIs with Express  
-- 📦 Integrate with third-party services (Stripe, Cloudinary, etc.)  
-- 🧪 Write unit/integration tests with Jest & Postman  
+- ✨ Build responsive UIs with React and Tailwind CSS
+- 🌍 Develop SEO-friendly apps using Next.js
+- 🔐 Implement secure authentication with JWT & OAuth
+- ⚙️ Design scalable REST & GraphQL APIs with Express
+- 📦 Integrate with third-party services (Stripe, Cloudinary, etc.)
+- 🧪 Write unit/integration tests with Jest & Postman
 
 ---
 
 ### 📌 Highlight Projects
 
-| Project         | Description                                | Stack                             |
-|----------------|--------------------------------------------|------------------------------------|
+| Project           | Description                               | Stack                              |
+| ----------------- | ----------------------------------------- | ---------------------------------- |
 | 🛒 E-commerce App | Full-featured online store with payments  | Next.js, MongoDB, Stripe, Tailwind |
 | 📚 Blog Platform  | SSR blogging system with admin dashboard  | Next.js, Prisma, Auth.js           |
 | 🧾 CRM Dashboard  | Admin dashboard with user/client tracking | React, Express, MongoDB            |
@@ -53,9 +53,10 @@ I'm a passionate JavaScript developer with real-world experience in building mod
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📩 Email: youremail@example.com
-- 📂 [My CV (PDF)](https://your-cv-link)
+- 🌐 [LinkedIn](www.linkedin.com/in/mostafa-ramadan-948b97263)
+
+- 📩 Email: mostafamostafaramadan144@gmail.com
+- 📂 [My CV (PDF)](https://drive.google.com/file/d/1hewsZl-XY7dGi7ZOHMRBNVbqAtzqJhLD/view?usp=sharing)
 
 ---
 
@@ -67,4 +68,3 @@ Open to exciting freelance/remote opportunities!
 ---
 
 ### 🙏 Thanks for stopping by!
-
