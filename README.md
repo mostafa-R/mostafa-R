@@ -1,4 +1,4 @@
-# 🌟 Hey there, I'm Mostafa Reda
+# 🌟 Hey there, I'm Mostafa Ramadan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+JavaScript+Developer;React.js+%26+Next.js+Specialist;Node.js+%26+Express.js+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -235,7 +235,7 @@
   <a href="https://www.linkedin.com/in/mostafa-ramadan-948b97263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mostafaredajs@gmail.com" target="_blank">
+  <a href="mailto:mostafamostafaramadan144@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/mostafa-R" target="_blank">
